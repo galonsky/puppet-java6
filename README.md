@@ -5,7 +5,7 @@ Install [SnagIt](http://www.techsmith.com/snagit.html), a commercial screengrab 
 ## Usage
 
 ```puppet
-include adium
+include snagit
 ```
 
 ## Required Puppet Modules
