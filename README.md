@@ -1,11 +1,11 @@
-# SnagIt Puppet Module for Boxen
+# Java SE 6 Puppet Module for Boxen
 
-Install [SnagIt](http://www.techsmith.com/snagit.html), a commercial screengrab utility.
+Install [Java SE 6](http://support.apple.com/kb/DL1572?viewlocale=en_US) using the official Apple package
 
 ## Usage
 
 ```puppet
-include snagit
+include java6
 ```
 
 ## Required Puppet Modules
